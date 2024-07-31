@@ -31,7 +31,7 @@ This project aims to leverage data analysis for "Happy Deliveries," an Irish foo
 
 ### Getting Started
 1. **Open the Notebook:**
-   Navigate to the [Happy_Deliveries_Data_Analysis.ipynb]() file in the repository to view and run the analysis directly in GitHub or download it and open it with Jupyter Notebook or JupyterLab.
+   Navigate to the [Happy_Deliveries_Data_Analysis.ipynb](https://github.com/Junyi116/Python_Project_Happy_Delivery/blob/main/Happy_Deliveries_Data_Analysis.ipynb) file in the repository to view and run the analysis directly in GitHub or download it and open it with Jupyter Notebook or JupyterLab.
 
 2. **Install Dependencies:**
    Ensure you have the following Python libraries installed:
